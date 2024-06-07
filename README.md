@@ -5,16 +5,16 @@
 
 - Clone this branch to your local machine
 
-  `git clone -b homes-app-start git@github.com:angular/codelabs.git homes-app`
+  `git clone https://github.com/mohamed-ahmed-yousef/angular-project.git`
 
 - Once the code has been downloaded
 
-  `cd homes-app`
+  `cd angular-project`
 
-- Install the depencies
+- Install the dependencies
 
   `npm install` 
 
 - Run the application 
-
   `ng serve`
+- open on port `4200`
